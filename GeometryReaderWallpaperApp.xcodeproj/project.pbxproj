@@ -11,6 +11,7 @@
 		667BBBF426E670AB00D474A8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667BBBF326E670AB00D474A8 /* ContentView.swift */; };
 		667BBBF626E670AD00D474A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 667BBBF526E670AD00D474A8 /* Assets.xcassets */; };
 		667BBBF926E670AD00D474A8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 667BBBF826E670AD00D474A8 /* Preview Assets.xcassets */; };
+		667BBC0126E6710D00D474A8 /* WallpapersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667BBC0026E6710D00D474A8 /* WallpapersView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		667BBBF526E670AD00D474A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		667BBBF826E670AD00D474A8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		667BBBFA26E670AD00D474A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		667BBC0026E6710D00D474A8 /* WallpapersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WallpapersView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				667BBBF126E670AB00D474A8 /* GeometryReaderWallpaperAppApp.swift */,
 				667BBBF326E670AB00D474A8 /* ContentView.swift */,
+				667BBC0026E6710D00D474A8 /* WallpapersView.swift */,
 				667BBBF526E670AD00D474A8 /* Assets.xcassets */,
 				667BBBFA26E670AD00D474A8 /* Info.plist */,
 				667BBBF726E670AD00D474A8 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				667BBBF426E670AB00D474A8 /* ContentView.swift in Sources */,
+				667BBC0126E6710D00D474A8 /* WallpapersView.swift in Sources */,
 				667BBBF226E670AB00D474A8 /* GeometryReaderWallpaperAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
